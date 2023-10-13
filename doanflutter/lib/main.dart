@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 //dothanhtung010590480438
-
+//kim toan, lap, quan, tung,di~
 void main() {
   runApp(const MyApp());
 }
